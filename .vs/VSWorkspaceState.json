@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\DAL",
+    "\\Data",
+    "\\Models",
+    "\\Services"
+  ],
+  "SelectedNode": "\\WebApi.csproj",
+  "PreviewInSolutionExplorer": false
+}
